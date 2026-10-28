@@ -116,7 +116,10 @@ window.AMO_I18N = {
     'ct.p': 'Kampaniya ilə bağlı suallar üçün:',
     'ct.copy': 'Kopyala',
     'ft.orn': 'Bu saytdakı naxışlar müasir Bakı xalçasından götürülüb: pilləli medalyon, çəp zolaqlı haşiyə və yerlikdəki buta motivləri.',
-    'ft.meh': 'Mehribanda üç il →'
+    'ft.also': 'Həmçinin:',
+    'ft.wfa': 'Women Forward Azerbaijan →',
+    'ft.meh': 'Mehribanda üç il →',
+    'ft.ft5': 'Müdriklik haqqında beş nağıl →'
   },
 
   ru: {
@@ -228,6 +231,9 @@ window.AMO_I18N = {
     'ct.p': 'По вопросам о кампании:',
     'ct.copy': 'Копировать',
     'ft.orn': 'Узоры на сайте взяты из современного бакинского ковра: ступенчатый медальон, кайма с диагональными полосами и мотивы бута в поле.',
-    'ft.meh': 'Три года в «Мехрибан» →'
+    'ft.also': 'Также:',
+    'ft.wfa': 'Women Forward Azerbaijan →',
+    'ft.meh': 'Три года в «Мехрибан» →',
+    'ft.ft5': 'Пять сказок о мудрости →'
   }
 };
